@@ -29,7 +29,7 @@
     }
 
     function handleCe(e) {
-        $input.value = 0;
+        $input.value = '';
     }
 
     function isLast(number) {
